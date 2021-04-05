@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "sprites/swapmodel64"
+
+	$translucent 1
+	$decal 1
+}

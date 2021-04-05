@@ -1,0 +1,7 @@
+
+
+@PointClass base(Targetname, Parentname, RenderFields, Angles, DXLevelChoice) studio("models/hunter/blocks/cube05x05x05.mdl") = game_modelswap : "game_ModelSwap"
+[
+	input SwapModel(string) : "Calls function to change activator's model if they are a player."
+	NewModel(string) : "New Player Model" : "" : "The model that the player will be switched to upon being triggered."
+]
